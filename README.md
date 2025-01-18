@@ -1,0 +1,1 @@
+Ifify is an anonymous social platform which let people connect without revealing their identity. This project is purely made using DOM manipulation to create single page application only using DOM manipulation.
